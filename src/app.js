@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="app">
       <header className="app-header">
-        HaganLife Master
+        HaganLife 20220518@12:55
       </header>
     </div>
   );
