@@ -29,4 +29,4 @@ jobs:
         server: ftp.hagan.life
         username: deploy@hagan.life
         password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: ./build/
+        #local-dir: ./build/
