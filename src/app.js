@@ -4,9 +4,10 @@ function App() {
   return (
     <div className="app">
       <header className="app-header">
-        HaganLife 20220518@12:55
+        <p>HaganLife 20220518@20:33</p>
+        <p>need to update apple-touch-icon /logo192.png</p>
       </header>
-      <p>need to update apple-touch-icon /logo192.png</p>
+      
     </div>
   );
 }
