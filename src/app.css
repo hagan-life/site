@@ -68,6 +68,10 @@ article{
   justify-content:center;
 }
 
+article img{
+  filter: drop-shadow(0 0 0.5rem #000);
+}
+
 
 
 
