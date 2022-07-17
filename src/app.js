@@ -93,7 +93,6 @@ function App() {
             </div>
           </article>
           */}
-          <p>Does static content appear?</p>
         </main>
       </div>
 
