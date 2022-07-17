@@ -9,7 +9,7 @@ function App() {
   useEffect(() => {
     // Fetch Data Here!
     //fetch('http://localhost:3000/build/blog.json')
-    fetch('build/old.json')
+    fetch('old.json')
       .then((response) => response.json())
       //.then((data) => console.log(data))
       .then((data) => {
