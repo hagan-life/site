@@ -92,7 +92,8 @@ function App() {
               <p>Nulla facilisi. Nam vestibulum ipsum eget lacus tristique, at viverra massa vehicula. Fusce facilisis condimentum neque, id aliquam ligula porttitor eu. Aenean id metus mauris. Phasellus justo magna, commodo eu pulvinar ac, molestie sit amet nunc. Cras posuere ipsum auctor urna malesuada luctus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam laoreet consequat elit, fringilla commodo lorem pretium eget. Etiam porttitor, ante in consectetur luctus, velit ipsum dictum lacus, sed tincidunt massa velit a ante. Sed consectetur massa ac dictum suscipit.</p>
             </div>
           </article>
-          */} 
+          */}
+          <p>Does static content appear?</p>
         </main>
       </div>
 
