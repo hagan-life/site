@@ -1,7 +1,7 @@
 name: React CI/CD via FTP
 
 on:
-  push:
+  build:
     branches: [ main ]
 
 jobs:
